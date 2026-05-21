@@ -1,0 +1,13 @@
+{
+  "name": "pcap-program-dashboard-renderer",
+  "version": "1.0.0",
+  "description": "Programme Executive Governance Dashboard renderer for EagleAI / PCAP",
+  "type": "module",
+  "dependencies": {
+    "@types/express": "^5.0.0",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0"
+  }
+}
